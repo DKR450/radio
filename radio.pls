@@ -1,6 +1,6 @@
 [playlist]
 
-File1=https://tunein.com/radio/Radio-Expres-1076-s72311/
+File1=https://stream.bauermedia.sk/expres-hi.mp3
 Title1=Expres
 Length1=-1
 
